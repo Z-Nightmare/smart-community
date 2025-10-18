@@ -41,6 +41,12 @@ github的命名空间（zeusro）即为第一作者。
 
 理论的更新，视情况看是否使用 release（[https://github.com/zeusro/Paper/releases](https://github.com/zeusro/Paper/releases)）。
 
+### 个人提交
+
+```BASH
+make AUTHOR="openAI"
+```
+
 ## 结论
 
 论文的字数越多，越是垃圾。
