@@ -39,7 +39,7 @@ github的命名空间（zeusro）即为第一作者。
 [https://github.com/zeusro/Paper/blob/main/README.zh.md](https://github.com/zeusro/Paper/blob/main/README.zh.md)
 ```
 
-理论的更新，视情况看是否使用 release（https://github.com/zeusro/Paper/releases）。
+理论的更新，视情况看是否使用 release（[https://github.com/zeusro/Paper/releases](https://github.com/zeusro/Paper/releases)）。
 
 ## 结论
 
