@@ -1,7 +1,6 @@
 BUILD_TIME      := $(shell LC_TIME=zh_CN.UTF-8 date +"%Y-%m-%d %H:%M:%S %A")
 #BUILD_TIME            := $(shell date +%Y-%m-%dT%H:%M:%S%z 2>/dev/null || powershell -Command "Get-Date -Format o")
-AUTHOR          := Zeusro  # ← 在此处替换为你的名字或签名
-
+AUTHOR          := Zeusro
 
 auto_commit:
 	git add .
