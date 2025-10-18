@@ -17,9 +17,11 @@
 
 论文：论文。
 
+### github论文
+
 github论文：使用github.com作为平台发表的论文。
 
-## github论文
+## github论文的一般性规范要求
 
 以本文（https://github.com/zeusro/paper）为例，github的命名空间（zeusro）即为第一作者。
 如果是团队作品，则使用org作为命名空间。多个作者不分前后（拒绝排资论辈），看具体的贡献（https://github.com/zeusro/Paper/graphs/contributors）。
