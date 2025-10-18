@@ -2,7 +2,9 @@
 
 2025-10-18
 
-![cover](img/cover.png)
+<a href="https://www.youtube.com/watch?v=QMd7lp5n5qU" target="_blank">
+  <img src="https://i.ytimg.com/vi/QMd7lp5n5qU/hqdefault.jpg" alt="image"  width="80%" height="80%"/>
+</a>
 
 ## Introduction
 
