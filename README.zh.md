@@ -1,72 +1,82 @@
-# 论文
+# 智能社区架构设计方案
 
-2025-10-18
-
-![封面](img/cover.png)
+2025-10-19
 
 ## 介绍
 
-摘要只适合滥竽充数的凑字数选手。
-这是一篇关于github论文格式的论文。
+科技的发展不是为了让它奴隶人类，而是让每一个社会成员能够带着人的尊严活下去。
 
-（关键词已经内化到Topics中）
+## 最小可行产品
 
-## 形式定义和术语
-
-### 论文
-
-论文：论文。
-
-### github论文
-
-github论文：使用github.com作为平台发表的论文。
-
-## github论文的一般性规范要求
-
-语法基本使用 github markdown，但链接部分考虑打印的需求，使用3行文本格式（见参考文献）或者[链接](链接)。
-
-### 作者
-
-github的命名空间（zeusro）即为第一作者。
-如果是团队作品，则使用org作为命名空间。
-多个作者不分前后（拒绝排资论辈），看具体的贡献（[https://github.com/zeusro/Paper/graphs/contributors](https://github.com/zeusro/Paper/graphs/contributors)）。
-
-### 链接
-
-以本文[https://github.com/zeusro/Paper/blob/main/README.zh.md](https://github.com/zeusro/Paper/blob/main/README.zh.md)为例：
-
-```markdown
-[https://github.com/zeusro/Paper/blob/main/README.zh.md](https://github.com/zeusro/Paper/blob/main/README.zh.md)
+```LLM
+卢本伟：小爱同学，
+小爱同学：诶。
+卢本伟：开灯。
+小爱同学：好啊。
 ```
 
-理论的更新，视情况看是否使用 release（[https://github.com/zeusro/Paper/releases](https://github.com/zeusro/Paper/releases)）。
+![svg](img/light.svg)
 
-### 个人提交
+## 概念
 
-```BASH
-make AUTHOR="openAI"
-```
+Alexa、天猫精灵
 
-## 结论
+数字家庭 digital home
+数字家庭系统平台 platform of digital home
+智能家居设备 smart home device
+智能中控网关 central control gateway
+数字家庭服务方 digital home service provider
+智能面板 intelligent panel
+主要功能房间 main functional rooms
 
-论文的字数越多，越是垃圾。
+Minimum Viable Product
+
+
+智能终端
+智能终端是触发设备调度指令的入口。比如智能音响，（Android/苹果）手机等。
+
+
+数字家庭 digital home
+以住宅为载体，利用物联网、云计算、大数据、移动通信、人工智能等新一代信息技术，实现
+系统平台、家居产品的互联互通，满足用户信息获取和使用的数字化家庭生活服务系统
+
+数字家庭系统平台 platform of digital home
+通过家庭内外部各种设备之间的信息共享和互操作，以及数据集成、应用集成等功能，为居民
+安全便利地提供政务服务、社会化服务和家居智能化服务的综合性系统。
+
+智能家居设备 smart home device
+具有网络通信功能，可自描述、发布并能与其他节点进行交互操作的家居设备。
+[GB/T 34043-2017,定义3.2]
+
+智能中控网关 central control gateway
+连接智能家居设备与外部网络、数字家庭系统平台，具备信息采集、处理和分析以及协议转换
+等能力，实现家庭内外部各种设备之间的信息共享和互操作，支持多种交互方式的设备。包括独立
+式的智能中控网关，或者与可视对讲室内机、家庭路由器、智能音箱等其他设备融合的集成式设备。
+
+数字家庭服务方 digital home service provider
+提供数字家庭相关产品、平台或服务的实体或机构。
+
+智能面板 intelligent panel
+具有通信功能的控制面板，控制的设备可包括照明、空调或其他设备或电器等。
+
+主要功能房间 main functional rooms
+居住建筑内人员长时间活动的空间，包括起居室、卧室、书房等。
+
+宽带入户 / FTTH
+
+米家IOT/天猫精灵/苹果生态/ 等。
+
+## 整体架构设计思路
+
+架构设计不是从0到1，也不是炫技，而是根据实际情况，对资源的有效组织与持续优化。
+因此，在架构设计阶段，考虑的问题点并不是尽可能地沿用最新科技。
+
+而是通过形式逻辑先理清概念，整理脉络，建立概念定义，为后续的迭代升级做准备。
+
+## 协议回退
 
 ## 参考文献
 
 [1] 
-louisvuitton(2025)
-https://www.louisvuitton.cn/zhs-cn/products/medium-ring-agenda-cover-monogram-000028/R20105
-
-## 已经发表和待发表的论文
-
-1. 卢本伟（2025）时间是超越物质与意识的第一维度 https://github.com/zeusro/quantum/blob/main/t.zh.md
-1. Zeusro（2025）Time is the first dimension https://github.com/zeusro/quantum/blob/main/t.md
-
-## 致谢
-
-感谢黄钰辉写的《季风常绿阔叶林演替系列森林地表温室气体通量对水热变化的响应》博士学位论文。
-在没有权限上知网的前提下，我的文末声明除了论文标题之外，都是抄他的。
-
-## 声明
-
-本人郑重声明：《论文》是本人独立进行研究工作所取得的成果。 除文中已经注明引用的内容外， 本论文不包含任何其他个人或集体已经发表或撰写过的作品成果。 对本文的研究作出重要贡献的个人和集体， 均已在文中以明确方式标明。 本人完全意识到本声明的法律结果由本人承担。
+广州市住房和城乡建设局关于公开征求《广州市居住建筑智能家居评价指引（征求意见稿）》、《广州市数字家庭建设指引（征求意见稿）》意见的公告
+https://www.gz.gov.cn/hdjlpt/yjzj/answer/46390

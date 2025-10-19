@@ -1,0 +1,67 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.7">
+  <diagram name="第 1 页" id="i8AXLZkw9xcY8kKRz0Qh">
+    <mxGraphModel dx="1455" dy="813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="a1Q2jrCkCMfao-x4-Nxd-1" value="智能单元" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="50" y="210" width="390" height="530" as="geometry" />
+        </mxCell>
+        <mxCell id="GGM9DK5av8CtsvVCGOPF-3" value="米家智能灯泡" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/devops/Application_Insights.svg;" parent="1" vertex="1">
+          <mxGeometry x="130" y="600" width="44" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="GGM9DK5av8CtsvVCGOPF-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GGM9DK5av8CtsvVCGOPF-5" target="GGM9DK5av8CtsvVCGOPF-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GGM9DK5av8CtsvVCGOPF-5" value="WiFi路由器" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/hybrid_multicloud/Azure_Operator_Insights.svg;" parent="1" vertex="1">
+          <mxGeometry x="290.2" y="600" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="GGM9DK5av8CtsvVCGOPF-10" value="小米IOT" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/storage/Azure_Stack_Edge.svg;" parent="1" vertex="1">
+          <mxGeometry x="119" y="440" width="68" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="GGM9DK5av8CtsvVCGOPF-13" value="小米智能音箱" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/blockchain/Blockchain_Applications.svg;" parent="1" vertex="1">
+          <mxGeometry x="300" y="430" width="48.4" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="GGM9DK5av8CtsvVCGOPF-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GGM9DK5av8CtsvVCGOPF-15" target="GGM9DK5av8CtsvVCGOPF-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GGM9DK5av8CtsvVCGOPF-26" value="开灯" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="GGM9DK5av8CtsvVCGOPF-16" vertex="1" connectable="0">
+          <mxGeometry x="-0.0213" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GGM9DK5av8CtsvVCGOPF-15" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/ai_machine_learning/Face_APIs.svg;" parent="1" vertex="1">
+          <mxGeometry x="290.2" y="280" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="GGM9DK5av8CtsvVCGOPF-27" value="" style="shape=link;html=1;rounded=0;" parent="1" source="GGM9DK5av8CtsvVCGOPF-13" target="GGM9DK5av8CtsvVCGOPF-3" edge="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="340" y="310" as="sourcePoint" />
+            <mxPoint x="440" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GGM9DK5av8CtsvVCGOPF-28" value="mesh" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="GGM9DK5av8CtsvVCGOPF-27" vertex="1" connectable="0">
+          <mxGeometry x="-0.1168" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GGM9DK5av8CtsvVCGOPF-29" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" source="GGM9DK5av8CtsvVCGOPF-3" target="GGM9DK5av8CtsvVCGOPF-5" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="610" y="580" as="sourcePoint" />
+            <mxPoint x="660" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GGM9DK5av8CtsvVCGOPF-30" value="WiFi" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="GGM9DK5av8CtsvVCGOPF-29" vertex="1" connectable="0">
+          <mxGeometry x="0.0742" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GGM9DK5av8CtsvVCGOPF-31" value="" style="shape=link;html=1;rounded=0;" parent="1" source="GGM9DK5av8CtsvVCGOPF-10" target="GGM9DK5av8CtsvVCGOPF-13" edge="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="40" y="540" as="sourcePoint" />
+            <mxPoint x="140" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
