@@ -8,3 +8,7 @@ auto_commit:
 	git commit -am "$(BUILD_TIME) —by $(AUTHOR)"
 	git pull
 	git push
+
+init:
+	echo -e "# \n\n$(date +%F)" > README.zh.md
+	echo -e "# \n\n$(date +%F)" > README.md
