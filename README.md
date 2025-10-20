@@ -13,9 +13,9 @@ The development of technology is not to enslave everything, but to enable every 
 Here, we use Mijia (Xiaomi, please sponsor us) as an example to illustrate the minimal case of smart home.
 
 ```LLM
-Lu Benwei: Xiao Ai,
+Zeusro: Xiao Ai.
 Xiao Ai: Yes.
-Lu Benwei: Turn on the light.
+Zeusro: Turn on the light.
 Xiao Ai: Sure.
 ```
 
