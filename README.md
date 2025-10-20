@@ -93,10 +93,13 @@ Spaces within residential buildings where people spend extended periods, includi
 
 ## Overall Architecture Design Approach
 
-Architectural design is not about starting from scratch or showing off, but about the effective organization and continuous optimization of resources based on actual conditions.
-Therefore, during the architectural design phase, the main consideration is not to adopt the latest technology wherever possible.
+Architectural design isn't about building something from scratch, nor is it about showmanship. Rather, it's about effectively organizing and continuously optimizing resources based on actual circumstances.
 
-Instead, it is to clarify concepts through formal logic, organize relationships, and establish definitions to prepare for future iterative upgrades.
+![img](img/smart_home.png)
+
+Thus, during the architectural design phase, the focus isn't on simply adopting the latest technology as much as possible.
+
+Rather, we should first clarify concepts, organize and summarize them, and establish conceptual definitions through formal logic to prepare for subsequent iterations and upgrades.
 
 ## Hardware standards
 
