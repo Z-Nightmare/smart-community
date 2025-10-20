@@ -183,3 +183,7 @@ https://iot.mi.com/v2/new/doc/home
 [5]
 设备接入服务
 https://support.huaweicloud.com/iothub/index.html
+
+[6]
+home-assistant
+https://github.com/home-assistant/core
