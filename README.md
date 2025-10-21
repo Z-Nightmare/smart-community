@@ -107,52 +107,9 @@ Hardware standards are subject to specific local laws and regulations.
 
 In addition to complying with these guidelines, smart home development must also comply with current national standards and regulations.
 
-For example, products manufactured and sold in mainland China:
-
-1. GB 55019 建筑与市政工程无障碍通用规范
-1. GB/T 26572 电子电气产品中限用物质的限量要求
-1. GB/T 28827.1 信息技术服务 运行维护 第1部分：通用要求
-1. GB/T 30246-3 家庭网络内部网关规范
-1. GB/T 34043 物联网智能家居 图形符号
-1. GB/T 34068 物联网总体技术 智能传感器接口规范
-1. GB/T 35136 智能家居自动控制设备通用技术要求
-1. GB/T 35273 信息安全技术 个人信息安全规范
-1. GB/T 36478 （所有部分）物联网信息交换和共享
-1. GB/T 37142 住宅用综合信息箱技术要求
-1. GB/T 39190 物联网智能家居 设计内容及要求
-1. GB/T 41387 信息安全技术 智能家居通用安全规范
-1. GB/Z 28828 信息安全技术 公共及商用服务信息系统个人信息保护指南
-1. GA 374 电子防盗锁
-1. DB 44/T 2671 数字家庭建设评价标准
-1. SJG 127 居住建筑全屋智能工程技术标准
-1. T/ZSPH 15 数字家庭建设评价标准
-1. GB/T 22239 信息安全技术 网络安全等级保护基本要求
-1. GB/T 28450 信息技术安全技术 信息安全管理体系审核指南
-1. GB/T 29245 信息安全技术 政府部门信息安全管理基本要求
-1. GB/Z 29830 信息技术 安全技术 信息技术安全保障框架
-1. GB/T 36626 信息安全技术 信息系统安全运维管理指南
-1. GB/T 36951 信息安全技术 物联网感知终端应用安全技术要求
-1. GB/T 37025 信息安全技术 物联网数据传输安全技术要求
-1. GB 50311 综合布线系统工程设计规范
-1. GB/T 50312 综合布线系统工程验收规范
-1. GB 50174 数据中心设计规范
-1. GB 50348 民用建筑电气设计标准
-1. GB 50846 住宅区和住宅建筑内光纤到户通信设施工程设计规范
-
 ## Software Standards
 
 Software standards are specialized in accordance with local laws and regulations.
-
-1. 中华人民共和国网络安全法
-1. 中华人民共和国数据安全法
-1. 中华人民共和国个人信息保护法
-1. 消费者权益保护法
-1. 医疗器械监督管理条例
-1. 医疗机构病历管理规定
-1. 广东省物业管理条例
-1. 广州市物业管理条例（2024 修正）
-
-Taking the laws of mainland China as an example, the <中华人民共和国网络安全法> and the <中华人民共和国数据安全法> are high-level laws that must be complied with by any Internet platform sold and operated in mainland China.
 
 ## Protocol Fallback
 
