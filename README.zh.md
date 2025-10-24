@@ -2,10 +2,6 @@
 
 2025-10-19
 
-<a href="https://www.youtube.com/watch?v=HJjQ-D5AANY" target="_blank">
-  <img src="https://img.youtube.com/vi/HJjQ-D5AANY/maxresdefault.jpg" alt="image"  width="80%" height="80%"/>
-</a>
-
 ## 介绍
 
 当前世界智能社区的问题，主要是厂商各自为政，闭门造车（不开放auth协议），对智能家庭系统平台重复建设而形成的信息孤岛。
