@@ -2,6 +2,10 @@
 
 2025-10-19
 
+<a href="https://www.youtube.com/watch?v=HJjQ-D5AANY" target="_blank">
+  <img src="https://img.youtube.com/vi/HJjQ-D5AANY/maxresdefault.jpg" alt="image"  width="80%" height="80%"/>
+</a>
+
 ## Introduction
 
 A smart community should be a platform-independent universal standard, built upon the Internet of Everything protocol, forming a (de)centralized hybrid computing network.
