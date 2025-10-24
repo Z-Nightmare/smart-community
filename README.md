@@ -158,9 +158,9 @@ Taking the laws of mainland China as an example, the <中华人民共和国网�
 
 Protocol fallback refers to a fault-tolerance mechanism implemented by smart homes when underlying dependent components are unavailable or the target user is mismatched.
 
-For example, if a public cloud smart home system platform fails, can smart home devices be downgraded to a local area network solution or mesh technology for offline device control?
+For example, if a public cloud smart home system platform fails, assuming the public network is unavailable, can smart home devices be downgraded to a local area network solution, or can mesh technology or infrared technology be used to achieve offline device control?
 
-If elderly users are unfamiliar with the operating procedures of smart devices like smart speakers, they can still operate the target device through traditional physical control methods (such as switch panels and remote controls).
+If elderly users are unfamiliar with the operation of smart devices such as smart speakers, they can still operate the target device through traditional physical control methods (such as switch panels and remote controls).
 
 ## References
 
