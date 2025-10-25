@@ -52,6 +52,8 @@ However, as of now (2025), smart terminals and (de)centralized networks are fund
 
 ### Centralized Network
 
+The current global network system is built based on root domain name servers.
+
 ### Decentralized Network
 
 Also called edge networks. In the context of digital homes, it can be simply understood as the home wireless network (which connects to the centralized network and includes a local area network).
@@ -64,7 +66,7 @@ These smart terminals can effectively receive user commands and, through remote 
 
 ### Voice Assistant
 
-A voice assistant refers to software based on LLM, or the "soul" that "inhabits" smart terminals. Examples include Alexa, Tmall Genie, Xiao Ai, etc.
+A voice assistant refers to software based on LLM, or the "ghost" that "inhabits" smart terminals. Examples include Alexa, Tmall Genie, Xiao Ai, etc.
 
 ### Digital Home
 
@@ -77,7 +79,23 @@ Through information sharing and interoperability among various internal and exte
 ### Smart Home Device
 
 A home device with network communication capabilities that can self-describe, publish, and interact with other nodes.
-[GB/T 34043-2017, Definition 3.2]
+
+Smart home devices can also be further divided into smart appliances, smart panels, etc.
+
+Smart home appliances: 
+These products are the result of integrating IoT technologies, microprocessors, sensors, and network communication technologies into home appliances. These devices possess intelligent identification, usage, or control management capabilities and can interact intelligently with control panels, touch screens, remote controls, and mobile apps.
+
+Smart Panel:
+A control panel with communication capabilities. The controlled devices may include lighting, air conditioning, or other devices or appliances.
+
+### Smart Home Device Controller
+
+![img](img/control_loop.png)
+
+Smart home devices are based on an offline design (physical circuit shutdown),
+with periodic heartbeat reporting, and support for various control flows (program logic startup, shutdown, and control).
+
+A collection of tools for operating smart home devices is called a smart home device controller.
 
 ### Smart Central Control Gateway
 
@@ -86,10 +104,6 @@ Connects smart home devices with external networks and digital home system platf
 ### Digital Home Service Provider
 
 Entities or organizations that provide products, platforms, or services related to digital homes.
-
-### Smart Panel
-
-A control panel with communication capabilities. The controlled devices may include lighting, air conditioning, or other devices or appliances.
 
 ### Room
 
